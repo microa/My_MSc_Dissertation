@@ -3,3 +3,4 @@
 <p>Due to the license & terms of SIAT, The detail can not go public yet. I'm sorry for that.</p>
 <p>But don't worry, The whole project would be public after two papers were published.</p>
 <p>Please stay tuned and wait if you are interested in it.</p>
+<p>Data collection video:https://youtu.be/3CNlHaRA9cI</p>
